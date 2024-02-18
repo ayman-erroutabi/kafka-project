@@ -1,7 +1,7 @@
 [submodule "order-kafka"]
 	path = order-kafka
-	# url = git://foo.com/git/lib.git
+	url = https://github.com/ayman-erroutabi/order-kafka
 
 [submodule "inventory-kafka"]
 	path = inventory-kafka
-	# url = git://bar.com/git/lib.git  
+	url = https://github.com/ayman-erroutabi/inventory-kafka
